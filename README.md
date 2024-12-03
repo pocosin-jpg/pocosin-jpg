@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @pocosin-jpg !! You can call me Poco!
+- 👋 Hi, I’m @pocosin-jpg !
 - 🌱 I’m currently learning: HTML and CSS, Javascript and Python
-- 📫 How to reach me: My twitter handle is @pocosin__
