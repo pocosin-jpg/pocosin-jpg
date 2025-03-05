@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @pocosin-jpg !
-- 🌱 I’m currently learning: HTML and CSS, Javascript and Python
+- 👋 
+- 🌱 
